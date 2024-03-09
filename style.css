@@ -221,7 +221,7 @@ a:focus {
 }
 
 .pos-2 {
-	grid-area: 1 / 18 / 9 / 27;
+	grid-area: 5 / 18 / 18 / 25;
 }
 
 .pos-3 {
@@ -253,7 +253,7 @@ a:focus {
 }
 
 .pos-10 {
- 	grid-area: 37 / 39 / 48 / 47;
+ 	grid-area: 37 / 40 / 55 / 47;
 }
 
 .content__title {
